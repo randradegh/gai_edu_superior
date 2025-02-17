@@ -155,7 +155,7 @@ export default function HeroSection() {
                   <span className="font-bold text-blue-400">18 a 21 horas</span> 
                 </p>
                 <p className="text-blue-300 text-center">
-                  <span className="font-bold text-orange-400">Via Google Meet</span> 
+                  <span className="font-bold text-orange-400">Vía Google Meet</span> 
                 </p>
               </div>
             </div>
