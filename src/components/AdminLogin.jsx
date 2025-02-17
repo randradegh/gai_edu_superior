@@ -6,8 +6,8 @@ export default function AdminLogin({ onLogin }) {
 
   const handleSubmit = (e) => {
     e.preventDefault()
-    // En un caso real, esto debería ser una contraseña hasheada y almacenada de forma segura
-    if (password === 'admin2024') {
+    // Cambiar la contraseña a 'Epepgairaf1'
+    if (password === 'Epepgairaf1') {
       onLogin(true)
       setError('')
     } else {
