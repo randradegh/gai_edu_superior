@@ -149,7 +149,7 @@ export default function HeroSection() {
             <div className="space-y-4">
               <div className="bg-blue-900/30 p-4 rounded-lg border border-blue-400/30">
                 <p className="text-blue-300 text-center">
-                  <span className="font-bold text-slate-400">4, 6, 11 y 13 de marzo de 2025</span> 
+                  <span className="font-bold text-slate-400">4, 5, 6, 10 y 11 de marzo de 2025</span> 
                 </p>
                 <p className="text-blue-300 text-center">
                   <span className="font-bold text-blue-400">18 a 21 horas</span> 
